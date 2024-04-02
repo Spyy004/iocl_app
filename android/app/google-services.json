@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492323875821",
+    "project_id": "iocl-98de3",
+    "storage_bucket": "iocl-98de3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492323875821:android:a581e6493d5efe8f4995e4",
+        "android_client_info": {
+          "package_name": "com.example.iocl_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrj1c8jNVmmU6MU_HsaBYIo3WnT461_qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
